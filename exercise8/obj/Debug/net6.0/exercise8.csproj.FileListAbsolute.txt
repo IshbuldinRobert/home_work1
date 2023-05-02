@@ -1,0 +1,15 @@
+C:\Study\code\C#\home_work1\exercise8\bin\Debug\net6.0\exercise8.exe
+C:\Study\code\C#\home_work1\exercise8\bin\Debug\net6.0\exercise8.deps.json
+C:\Study\code\C#\home_work1\exercise8\bin\Debug\net6.0\exercise8.runtimeconfig.json
+C:\Study\code\C#\home_work1\exercise8\bin\Debug\net6.0\exercise8.dll
+C:\Study\code\C#\home_work1\exercise8\bin\Debug\net6.0\exercise8.pdb
+C:\Study\code\C#\home_work1\exercise8\obj\Debug\net6.0\exercise8.csproj.AssemblyReference.cache
+C:\Study\code\C#\home_work1\exercise8\obj\Debug\net6.0\exercise8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\code\C#\home_work1\exercise8\obj\Debug\net6.0\exercise8.AssemblyInfoInputs.cache
+C:\Study\code\C#\home_work1\exercise8\obj\Debug\net6.0\exercise8.AssemblyInfo.cs
+C:\Study\code\C#\home_work1\exercise8\obj\Debug\net6.0\exercise8.csproj.CoreCompileInputs.cache
+C:\Study\code\C#\home_work1\exercise8\obj\Debug\net6.0\exercise8.dll
+C:\Study\code\C#\home_work1\exercise8\obj\Debug\net6.0\refint\exercise8.dll
+C:\Study\code\C#\home_work1\exercise8\obj\Debug\net6.0\exercise8.pdb
+C:\Study\code\C#\home_work1\exercise8\obj\Debug\net6.0\exercise8.genruntimeconfig.cache
+C:\Study\code\C#\home_work1\exercise8\obj\Debug\net6.0\ref\exercise8.dll
